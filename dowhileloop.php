@@ -1,0 +1,8 @@
+<?php
+$counter = 1;
+
+do {
+    echo "counter:" .$counter. "<br>";
+    $counter++;
+}
+while ($counter <= 5);
